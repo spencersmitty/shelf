@@ -24,8 +24,8 @@
     </a>
   <img src="https://img.shields.io/badge/help-wanted-orange">
     <img src="https://img.shields.io/badge/platform-macOS-black?logo=apple&logoColor=white">
-  <a href="https://discord.gg/YOUR_INVITE_CODE">
-      <img src="https://img.shields.io/discord/YOUR_SERVER_ID?color=7289da&label=discord&logo=discord&logoColor=white">
+  <a href="https://discord.gg/cDm8Vpes3K">
+      <img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white">
     </a>
   </p>
 
@@ -38,7 +38,7 @@
 
 ## about shelf  
 
-**shelf** is a magically simple retro gaming frontend for macOS - built for apple silicon. it’s being created to bring the ease and polish of real hardware into emulation, removing setup friction so more people can enjoy games from a previous era. while many emulators are already great, shelf aims to offer a more apple-like experience — clean, familiar, and thoughtfully designed for mac users.
+**shelf** is a magical retro gaming frontend for macOS - built for apple silicon. it’s being created to bring the ease and polish of real hardware into emulation, removing setup friction so more people can enjoy games from a previous era. while many emulators are already great, shelf aims to offer a more apple-like experience: clean, familiar, and thoughtfully designed for mac users.
 
 i’m still learning swift and figuring things out as i go, so this is a slow burn project.  
 if you actually know what you’re doing and want to contribute, then **help is strongly welcomed.**
