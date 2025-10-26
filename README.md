@@ -10,22 +10,21 @@
   <h1>shelf</h1>
 
   <!-- badges -->
-  <p>
-    <a href="https://github.com/yourname/shelf/releases">
-      <img src="https://img.shields.io/github/v/release/yourname/shelf?label=version&color=blue">
+<p>
+    <a href="https://github.com/spencersmitty/shelf/releases">
+      <img src="https://img.shields.io/github/v/release/spencersmitty/shelf?label=version&color=blue">
     </a>
-    <a href="https://github.com/yourname/shelf/issues">
-      <img src="https://img.shields.io/github/issues/yourname/shelf?color=red">
+    <a href="https://github.com/spencersmitty/shelf/issues">
+      <img src="https://img.shields.io/github/issues/spencersmitty/shelf?color=red">
     </a>
-    <a href="https://github.com/yourname/shelf/blob/main/license">
-      <img src="https://img.shields.io/github/license/yourname/shelf?color=lightgrey">
-    </a>
+  <img src="https://img.shields.io/badge/help-wanted-orange">
     <img src="https://img.shields.io/badge/platform-macOS-black?logo=apple&logoColor=white">
   </p>
 
+
 ---
 
-a magically simple macOS frontend for retro gaming
+a magically simple retro gaming frontend for macOS frontend
 
 ---
 
@@ -108,6 +107,5 @@ released under the [mit license](license).
 <p align="center">
   made with love ❤️
   <br>
-  <a href="https://github.com/yourname/shelf/issues">report bugs</a> · 
-  <a href="https://spencersmitty.com">my site</a>
+  <a href="mailto:contact@spencersmitty.com">contact me</a>
 </p>
