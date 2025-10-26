@@ -63,7 +63,7 @@ or, what if there was a mechanic to wipe accumilated dust from your shelf, use i
 - thumbnail/metadata sync via IGDB
 - editable game metadata without breaking shit
 - shaders + audio filters (wanna play in a cathedral?)
-- discord rich presence integration wit' da thumbnails son B^)
+- discord rich presence with game thumbnails
 
 ---
 
