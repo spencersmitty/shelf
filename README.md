@@ -11,7 +11,7 @@
 <h1>shelf</h1>
 <kbd>1 of 1</kbd> <strong>noun</strong><br>
 <em>/ʃɛlf/</em><br>
-1&nbsp;&nbsp;&nbsp;: <em>a place where games go to collect dust</em><br>
+1&nbsp;&nbsp;&nbsp;: <em>a place where dust accumulates</em><br>
 <hr>
 
   <!-- badges -->
@@ -24,6 +24,9 @@
     </a>
   <img src="https://img.shields.io/badge/help-wanted-orange">
     <img src="https://img.shields.io/badge/platform-macOS-black?logo=apple&logoColor=white">
+  <a href="https://discord.gg/YOUR_INVITE_CODE">
+      <img src="https://img.shields.io/discord/YOUR_SERVER_ID?color=7289da&label=discord&logo=discord&logoColor=white">
+    </a>
   </p>
 
 ---
@@ -35,7 +38,7 @@
 
 ## about shelf  
 
-**shelf** is a magically simple retro gaming frontend for macOS - built for apple silicon.
+**shelf** is a magically simple retro gaming frontend for macOS - built for apple silicon. it’s being created to bring the ease and polish of real hardware into emulation, removing setup friction so more people can enjoy games from a previous era. while many emulators are already great, shelf aims to offer a more apple-like experience — clean, familiar, and thoughtfully designed for mac users.
 
 i’m still learning swift and figuring things out as i go, so this is a slow burn project.  
 if you actually know what you’re doing and want to contribute, then **help is strongly welcomed.**
@@ -46,10 +49,7 @@ i aim for simplicity and avoiding monotinous routines of researching a frontends
 
 the interface is built to stay out of the way. options only appear when they make sense, not scattered all around and overwhelming you. settings are lean, and graphical improvements are pre-configured and more easily understandable with photo examples. nobody should have to visit youtube in hopes to understand how to setup their core, when they really just want to play something.
 
-the “shelf” view is what ties it all together. while traditional views, you can also view your collection on a 3D front-facing shelf - sooo... cartridges, jewel cases, and boxes :-)
-it’s a small touch, but it makes browsing feel warm and familiar. i'm pretty sure launchbox sort of touches on this idea with box art renders, im not too sure tho
-
-or, what if there was a mechanic to wipe accumilated dust from your shelf, use isopropyl alcohol on your roms to make them read more frequently, and have to solder new capacitors into your virtual consoles? what a nightmare that would be right?! ermm
+the optional “shelf” view is what ties it all together. while traditional grid views are more efficient and what i'd end up using anyway, in this view you'll be able to view your collection on a 3D front-facing shelf - seeing the jewel cases, cartridges, etc. it’s a small touch, but it will make choosing something to play feel a bit warmer and more interactive like reality.
 
 ---
 
@@ -63,21 +63,13 @@ or, what if there was a mechanic to wipe accumilated dust from your shelf, use i
 - thumbnail/metadata sync via IGDB
 - editable game metadata without breaking shit
 - shaders + audio filters (wanna play in a cathedral?)
-- discord rich presence with game thumbnails
-
----
-
-## 📦 installation  
-
-download the latest release from the [releases page](https://github.com/yourname/shelf/releases).
-
-drag the app into your `applications` folder and open.  
+- discord rich presence with game thumbnails  
 
 ---
 
 ## 🧭 roadmap [5%/100%]
 
-- [~] core ui menus + library foundation [current]
+- [ ] core ui menus + library foundation [current]
 - [ ] metadata scraping integration
 - [ ] icloud saves and configs
 - [ ] libretro core api integration
@@ -90,22 +82,35 @@ drag the app into your `applications` folder and open.
 ## 🤝 contributing  
 
 advice and pull requests are welcome.  
-maybe open a discussion before submitting major changes.
+open a discussion before submitting major changes.
 
 you can:  
 - report bugs on [github issues](https://github.com/spencersmitty/shelf/issues)
-- send feedback directly through the app’s 'Submit Feedback...' window
+- send feedback directly through the 'Submit Feedback...' Help menu item
 
 ---
 
+## ⚖️ legal notice  
+
+> **shelf** does not include or distribute any game roms, bios files, or copyrighted materials.
+> users are solely responsible for ensuring they have the legal right to use any content they load. 
+
+---
+
+## 🧾 acknowledgements  
+
+this project makes use of open-source software and services, including:  
+- [libretro](https://www.libretro.com/)  
+- [IGDB API](https://www.igdb.com/discover)  
+
 ## 📄 license  
 
-released under the [mit license](license).  
+released under the [source-available license](LICENSE).  
 
 ---
 
 <p align="center">
-  made with love ❤️
+  made with ❤️
   <br>
-  <a href="mailto:contact@spencersmitty.com">contact me</a>
+  <a href="mailto:contact@spencersmitty.com">contact</a>
 </p>
