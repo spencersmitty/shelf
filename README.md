@@ -6,8 +6,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e15502bb-c34c-408d-8d6a-2e5296ebf2d5">
     <img alt="shelf logo" src="https://github.com/user-attachments/assets/9c44e9b8-7d07-4c83-b6de-beddd7726dc4" width="150">
   </picture>
+<br>
 
-  <h1>shelf</h1>
+<h1>shelf</h1>
+<kbd>1 of 1</kbd> <strong>noun</strong><br>
+<em>/ʃɛlf/</em><br>
+1&nbsp;&nbsp;&nbsp;: <em>a place where games go to collect dust</em><br>
+<hr>
 
   <!-- badges -->
 <p>
@@ -21,11 +26,6 @@
     <img src="https://img.shields.io/badge/platform-macOS-black?logo=apple&logoColor=white">
   </p>
 
-
----
-
-a magically simple retro gaming frontend for macOS frontend
-
 ---
 
 <img width="3790" height="1794" alt="1" src="https://github.com/user-attachments/assets/ae7229ee-fa4c-45b9-ab93-d83d99b2ead5" />
@@ -35,7 +35,7 @@ a magically simple retro gaming frontend for macOS frontend
 
 ## about shelf  
 
-**shelf** is a reimagined take on openemu — built exclusively for modern macs and apple silicon in an apple style.
+**shelf** is a magically simple retro gaming frontend for macOS - built for apple silicon.
 
 i’m still learning swift and figuring things out as i go, so this is a slow burn project.  
 if you actually know what you’re doing and want to contribute, then **help is strongly welcomed.**
