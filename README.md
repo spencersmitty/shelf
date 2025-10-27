@@ -24,7 +24,7 @@
     </a>
   <img src="https://img.shields.io/badge/help-wanted-orange">
     <img src="https://img.shields.io/badge/platform-macOS-black?logo=apple&logoColor=white">
-  <a href="https://discord.gg/cDm8Vpes3K">
+  <a href="https://discord.gg/VW8FEHmZZH">
       <img src="https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white">
     </a>
   </p>
